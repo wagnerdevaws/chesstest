@@ -1,6 +1,6 @@
 <h1 align="center">
+     <img alt="Chess" src=".github/chess.svg" height="100px" />
     <br>Design Patterns Chess Game <br/>
-    <img alt="Chess" src=".github/chess.svg" height="100px" />
     <br>
 </h1>
 
