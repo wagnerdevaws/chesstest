@@ -149,7 +149,7 @@ public static void clearScreen() {
     * ChessException
     * InputMismatchException             
 
----
+<h1></h1>
 
 ## :book: How to Play Chess
 
@@ -157,11 +157,11 @@ public static void clearScreen() {
 
 Each of the 6 different kinds of pieces moves differently. Pieces cannot move through other pieces (though the knight can jump over other pieces), and can never move onto a square with one of their own pieces. However, they can be moved to take the place of an opponent's piece which is then captured. Pieces are generally moved into positions where they can capture other pieces (by landing on their square and then replacing them), defend their own pieces in case of capture, or control important squares in the game.
 
-<h1 align="center">How to Move the King in Chess</h1>
 
 <p align="center">
     <img alt="King" src=".github/king.svg" height="100px" />
 </p>
+<h1 align="center">How to Move the King in Chess</h1>
 
 The king is the most important piece, but is one of the weakest. The king can only move one square in any direction - up, down, to the sides, and diagonally.
 
