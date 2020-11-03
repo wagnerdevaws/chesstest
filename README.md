@@ -149,7 +149,6 @@ public static void clearScreen() {
     * ChessException
     * InputMismatchException             
 
-<h1></h1>
 
 ## :book: How to Play Chess
 
@@ -161,7 +160,7 @@ Each of the 6 different kinds of pieces moves differently. Pieces cannot move th
 <p align="center">
     <img alt="King" src=".github/king.svg" height="100px" />
 </p>
-<h1 align="center">How to Move the King in Chess</h1>
+<p align="center"><b>How to Move the King in Chess</b></p>
 
 The king is the most important piece, but is one of the weakest. The king can only move one square in any direction - up, down, to the sides, and diagonally.
 
