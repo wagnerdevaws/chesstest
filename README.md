@@ -9,7 +9,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/civilenginner/Proffy?style=flat-square?&color=blue"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Source-chess.com-blue">
 </p>
-<br>
+
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-structure">Project Structure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@
   <a href="#boom-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
+<br>
 
 
 ## :bookmark: About
