@@ -52,16 +52,17 @@ Applying design patterns in a chess game
 
 #### Chess layer and printing the board
 
-8 - - - - - - - - <br>
-7 - - - - - - - - <br>
-6 - - - - - - - - <br>
-5 - - - - - - - - <br>
-4 - - - - - - - - <br>
-3 - - - - - - - - <br>
-2 - - - - - - - - <br>
-1 - - - - - - - - <br>
+```
+8 - - - - - - - -
+7 - - - - - - - -
+6 - - - - - - - -
+5 - - - - - - - -
+4 - - - - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - - 
  a b c d e f g h
-
+```
 
 * **Checklist:** 
    * Methods: Board.Piece(row, column) and Board.Piece(position)
