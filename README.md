@@ -173,7 +173,7 @@ The king is the most important piece, but is one of the weakest. The king can on
 
 The king may never move himself into check (where he could be captured). When the king is attacked by another piece this is called "check".
 
----
+<h1></h1>
 
 
 <p align="center">
@@ -192,7 +192,7 @@ The queen is the most powerful piece. She can move in any one straight direction
 
 And, like with all pieces, if the queen captures an opponent's piece her move is over. Notice how the white queen captures the black queen and then the black king is forced to move.
 
----
+<h1></h1>
 
 <p align="center">
     <img alt="Rook" src=".github/rook.svg" height="100px" />
@@ -210,7 +210,7 @@ The rook may move as far as it wants, but only forward, backward, and to the sid
 
 The rooks are particularly powerful pieces when they are protecting each other and working together!
 
----
+<h1></h1>
 
 <p align="center">
     <img alt="Bishop" src=".github/bishop.svg" height="100px" />
@@ -228,7 +228,7 @@ The bishop may move as far as it wants, but only diagonally. Each bishop starts 
 
 Bishops work well together because they cover up each other's weaknesses.
 
----
+<h1></h1>
 
 <p align="center">
     <img alt="Knight" src=".github/horse.svg" height="100px" />
@@ -246,7 +246,7 @@ Knights move in a very different way from the other pieces – going two squares
 
 Knights are also the only pieces that can move over other pieces.
 
----
+<h1></h1>
 
 <p align="center">
     <img alt="Pawn" src=".github/pawn.svg" height="100px" />
@@ -278,7 +278,7 @@ Pawns have another special ability and that is that if a pawn reaches the other 
 
 A pawn may be promoted to any piece. A common misconception is that pawns may only be exchanged for a piece that has been captured. That is NOT true. A pawn is usually promoted to a queen. Only pawns may be promoted.
 
----
+<h1></h1>
 
 #### How to do "en passant" in Chess
 
@@ -288,7 +288,7 @@ The last rule about pawns is called **en passant**, which is French for **in pas
 
 This special move must be done immediately after the first pawn has moved past, otherwise the option to capture it is no longer available. Click through the example below to better understand this odd, but important rule.
 
----
+<h1></h1>
 
 #### How to Castle in Chess
 
