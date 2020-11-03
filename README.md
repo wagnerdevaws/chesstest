@@ -22,9 +22,8 @@
 
 ## :bookmark: About
 
-This Application was developed to apply the knowledge acquired in Java studies.
-
-Applying design patterns in a chess game
+<p>This Application was developed to apply the knowledge acquired in Java studies.<p>
+<p>Applying design patterns in a chess game</p>
  
 
 ## :construction_worker: Structure
@@ -155,7 +154,7 @@ public static void clearScreen() {
 #### How the Chess Pieces Move
 
 
-Each of the 6 different kinds of pieces moves differently. Pieces cannot move through other pieces (though the knight can jump over other pieces), and can never move onto a square with one of their own pieces. However, they can be moved to take the place of an opponent's piece which is then captured. Pieces are generally moved into positions where they can capture other pieces (by landing on their square and then replacing them), defend their own pieces in case of capture, or control important squares in the game.
+Each of the 6 different kinds of pieces moves differently. Pieces cannot move through other pieces (though the knight can jump over other pieces), and can never move onto a square with one of their own pieces. However, they can be moved to take the place of an opponent's piece which is then captured. Pieces are generally moved into positions where they can capture other pieces (by landing on their square and then replacing them), defend their own pieces in case of capture, or control important squares in the game.<br>
 
 
 <p align="center">
@@ -171,11 +170,13 @@ The king may never move himself into check (where he could be captured). When th
 
 ---
 
-#### How to Move the Queen in Chess
 
-<h1 align="center">
+<p align="center">
     <img alt="Queen" src=".github/queen.svg" height="100px" />
-</h1>
+</p
+<p align="center">
+How to Move the Queen in Chess
+</p>
 
 The queen is the most powerful piece. She can move in any one straight direction - forward, backward, sideways, or diagonally - as far as possible as long as she does not move through any of her own pieces.
 
@@ -184,9 +185,9 @@ The queen is the most powerful piece. She can move in any one straight direction
 And, like with all pieces, if the queen captures an opponent's piece her move is over. Notice how the white queen captures the black queen and then the black king is forced to move.
 
 ---
-
-#### How to Move the Rook in Chess
-
+<p align="center">
+How to Move the Rook in Chess
+</p>
 <h1 align="center">
     <img alt="Rook" src=".github/rook.svg" height="100px" />
 </h1>
