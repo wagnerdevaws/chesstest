@@ -1,7 +1,6 @@
 <h1 align="center">
      <img alt="Chess" src=".github/chess.svg" height="100px" />
     <br>Design Patterns Chess Game <br/>
-    <br>
 </h1>
 
 <p align="center">
@@ -10,6 +9,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/civilenginner/Proffy?style=flat-square?&color=blue"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Source-chess.com-blue">
 </p>
+<br>
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-structure">Project Structure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -153,6 +153,7 @@ public static void clearScreen() {
 ## :book: How to Play Chess
 
 #### How the Chess Pieces Move
+
 
 Each of the 6 different kinds of pieces moves differently. Pieces cannot move through other pieces (though the knight can jump over other pieces), and can never move onto a square with one of their own pieces. However, they can be moved to take the place of an opponent's piece which is then captured. Pieces are generally moved into positions where they can capture other pieces (by landing on their square and then replacing them), defend their own pieces in case of capture, or control important squares in the game.
 
