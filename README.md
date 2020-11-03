@@ -160,7 +160,12 @@ Each of the 6 different kinds of pieces moves differently. Pieces cannot move th
 <p align="center">
     <img alt="King" src=".github/king.svg" height="100px" />
 </p>
-<p align="center"><b>How to Move the King in Chess</b></p>
+
+<p align="center">
+     <b>
+          How to Move the King in Chess
+     </b>
+</p>
 
 The king is the most important piece, but is one of the weakest. The king can only move one square in any direction - up, down, to the sides, and diagonally.
 
@@ -174,8 +179,11 @@ The king may never move himself into check (where he could be captured). When th
 <p align="center">
     <img alt="Queen" src=".github/queen.svg" height="100px" />
 </p
+ 
 <p align="center">
-How to Move the Queen in Chess
+     <b>
+          How to Move the Queen in Chess
+     </b>     
 </p>
 
 The queen is the most powerful piece. She can move in any one straight direction - forward, backward, sideways, or diagonally - as far as possible as long as she does not move through any of her own pieces.
@@ -185,12 +193,16 @@ The queen is the most powerful piece. She can move in any one straight direction
 And, like with all pieces, if the queen captures an opponent's piece her move is over. Notice how the white queen captures the black queen and then the black king is forced to move.
 
 ---
+
 <p align="center">
-How to Move the Rook in Chess
-</p>
-<h1 align="center">
     <img alt="Rook" src=".github/rook.svg" height="100px" />
-</h1>
+</p>
+
+<p align="center">
+     <b>
+          How to Move the Rook in Chess
+     </b>
+</p>
 
 The rook may move as far as it wants, but only forward, backward, and to the sides.
 
@@ -200,11 +212,15 @@ The rooks are particularly powerful pieces when they are protecting each other a
 
 ---
 
-#### How to Move the Bishop in Chess
-
-<h1 align="center">
+<p align="center">
     <img alt="Bishop" src=".github/bishop.svg" height="100px" />
-</h1>
+</p>
+
+<p align="center">
+     <b>
+          How to Move the Bishop in Chess
+     </b>
+</p>
 
 The bishop may move as far as it wants, but only diagonally. Each bishop starts on one color (light or dark) and must always stay on that color.
 
@@ -214,11 +230,15 @@ Bishops work well together because they cover up each other's weaknesses.
 
 ---
 
-#### How to Move the Knight in Chess
-
-<h1 align="center">
+<p align="center">
     <img alt="Knight" src=".github/horse.svg" height="100px" />
-</h1>
+</p>
+
+<p align="center">
+     <b>
+          How to Move the Knight in Chess
+     </b>
+</p>
 
 Knights move in a very different way from the other pieces – going two squares in one direction, and then one more move at a 90 degree angle, just like the shape of an **L**.
 
@@ -228,11 +248,15 @@ Knights are also the only pieces that can move over other pieces.
 
 ---
 
-#### How to Move the Pawn in Chess
-
-<h1 align="center">
+<p align="center">
     <img alt="Pawn" src=".github/pawn.svg" height="100px" />
-</h1>
+</p>
+
+<p align="center">
+     <b>
+          How to Move the Pawn in Chess
+     </b>
+</p>
 
 Pawns are unusual because they move and capture in different ways: they move forward, but capture diagonally. Pawns can only move forward one square at a time, except for their very first move where they can move forward two squares.
 
